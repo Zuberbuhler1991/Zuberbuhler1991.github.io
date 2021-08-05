@@ -1,0 +1,40 @@
+.main {
+    width: 100%;
+}
+
+p {
+    margin: 0px;
+}
+
+
+.card-img-top {
+    width: 125px;
+    height: 125px;
+    object-fit: cover;
+}
+
+
+
+.card {
+    width: 250px;
+    height: 100%;
+}
+
+.contributions {
+   
+    height: 300px;
+}
+
+
+
+.more-info-text {
+    text-align: justify;
+}
+
+.cell {
+    width: calc(100% / 3);
+    height: 200px;
+}
+.item {
+    height: 100%;
+}
